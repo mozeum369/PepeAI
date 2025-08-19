@@ -1,0 +1,15 @@
+requests
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+ccxt
+python-dotenv
+flask
+plotly
+beautifulsoup4
+lxml
+aiohttp
+websockets
+schedule
